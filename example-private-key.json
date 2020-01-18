@@ -3,7 +3,7 @@
   "project_id": "pandas-gbq-example-project",
   "private_key_id": "2d9627d5a6eec3a5ed329d2ed284f1d15c4759c8",
   "private_key": "This is usually a really long string of random numbers",
-  "client_email": "pandas-gbq-example-service@pandas-gbq-example-project.iam.gserviceaccount.com",
+  "client_email": "This is the email account for your service account",
   "client_id": "107453209810038959187",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
